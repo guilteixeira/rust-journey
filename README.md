@@ -116,6 +116,10 @@ rust-journey
 
 ---
 
+📄 Anotações
+
+Além dos códigos, cada fase terá um `README.md` com anotações dos erros mais comuns, comparações com outras linguagens e reflexões durante o estudo.
+
 ## 📌 Como rodar os exercícios
 
 ```bash
